@@ -1,0 +1,8 @@
+name: 'AWS CLI 2'
+description: 'Github Action for AWS CLI 2.x'
+branding:
+  icon: 'cloud'
+  color: 'orange'
+runs:
+  using: docker
+  image: Dockerfile
